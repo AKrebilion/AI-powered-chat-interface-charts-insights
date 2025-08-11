@@ -4,7 +4,7 @@
 
 This project is an AI-powered chat interface that lets users interact with data using natural language queries. It generates SQL queries on-the-fly and visualizes the results with dynamic charts and insightful summaries.
 
-The backend is built with **Flask** and integrates with **OpenAI APIs** to process queries and generate SQL commands against the **Northwind SQLite database**. The frontend is a **React** app providing a smooth chat experience alongside rich data visualizations.
+The backend is built with **Flask** and integrates with **OpenAI APIs** to process queries and generate SQL commands against the **Northwind SQLite database**. The frontend is a **React** app providing a smooth chat experience alongside rich data visualizations..
 
 ---
 
